@@ -3,16 +3,16 @@
 
 <datafile>
 	<header>
-		<name>-insert name-</name>
-		<description>-insert description-</description>
+		<name>mister_from_mame</name>
+		<description>mister_from_mame</description>
 		<category>Standard DatFile</category>
-		<version>-insert version-</version>
-		<date>-insert date-</date>
-		<author>-insert author-</author>
-		<email>-insert email-</email>
-		<homepage>-insert homepage-</homepage>
-		<url>-insert url-</url>
-		<comment>-insert comment-</comment>
+		<version>2019.10.09.001</version>
+		<date>2019-10-09</date>
+		<author>_daemons</author>
+		<email>.</email>
+		<homepage>.</homepage>
+		<url>.</url>
+		<comment>.</comment>
 		<clrmamepro/>
 	</header>
 	<machine name="1942">
