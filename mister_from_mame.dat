@@ -6,8 +6,8 @@
 		<name>mister_from_mame</name>
 		<description>mister_from_mame</description>
 		<category>Standard DatFile</category>
-		<version>2019.10.09.001</version>
-		<date>2019-10-09</date>
+		<version>2019.10.19.001</version>
+		<date>2019-10-19</date>
 		<author>_daemons</author>
 		<email>.</email>
 		<homepage>.</homepage>
@@ -428,6 +428,16 @@
 		<rom name="defend.8" size="2048" crc="b649e306" md5="dd4d18f5d3d14ab94f09b05335da3bf4" sha1="9d7bc3c89e5a53c575946f06702c722b864b1ff0"/>
 		<rom name="defend.9" size="2048" crc="6870e8a5" md5="3de0cf05f6ee1fd7da6ccaba93fce3fc" sha1="67ccc194b1753a18af0c85f5e603355549c4f727"/>
 		<rom name="defend.snd" size="2048" crc="fefd5b48" md5="ec5b36f80f7bd93ba9e6269f0376efd6" sha1="ceb0d18483f0691978c604db94417e6941ad7ff2"/>
+	</machine>
+	<machine name="devilfsg">
+		<description>devilfsg</description>
+		<rom name="82s123.6e" size="32" crc="4e3caeab" md5="0fd8211697e4ffaca531fe5ff8e99705" sha1="a25083c3e36d28afdefe4af6e6d4f3155e303625"/>
+		<rom name="dfish1.7f" size="4096" crc="2ab19698" md5="1311b37ebd64a9cf81e1a1d646b0a168" sha1="8450981d3cf3fa8abf2fb5487aa98b03a4cf03a1"/>
+		<rom name="dfish2.7h" size="4096" crc="4e77f097" md5="645d98736cc99f9ceb74d9e94182ce54" sha1="aeaa5ff210ccbbe77114edf5dee992d2720636ae"/>
+		<rom name="dfish3.7k" size="4096" crc="3f16a4c6" md5="7fdd24eea8226a7ef6e35d714da0ff05" sha1="cc30b27070a12c250cdc2f7289bae7c7a4c05c2c"/>
+		<rom name="dfish4.7m" size="4096" crc="11fc7e59" md5="f0ec4cf137f14c67014847669219e0a7" sha1="2c0182a75bfca085e67483b421f40b3bc9b8ef24"/>
+		<rom name="dfish5.1h" size="4096" crc="ace6e31f" md5="3ae457331a93b81a017a54cb07b10506" sha1="23df890fdf8ef275af79e10c8e43ff3a617b28ac"/>
+		<rom name="dfish6.1k" size="4096" crc="d7a6c4c4" md5="25d2a5fd438931c16cc39abeea2d1664" sha1="ec5f9182657edb11884ab93f868f1bb3569461ae"/>
 	</machine>
 	<machine name="digdug">
 		<description>digdug</description>
