@@ -5,14 +5,14 @@
 	<header>
 		<name>mister_from_mame</name>
 		<description>mister_from_mame</description>
-		<category>Standard DatFile</category>
-		<version>2019.10.19.001</version>
-		<date>2019-10-19</date>
+		<category>mister</category>
+		<version>2019.10.26.001</version>
+		<date>2019-10-26</date>
 		<author>_daemons</author>
-		<email>.</email>
-		<homepage>.</homepage>
-		<url>.</url>
-		<comment>.</comment>
+		<email>elvis@stickfreaks.com</email>
+		<homepage>https://stickfreaks.com</homepage>
+		<url>https://stickfreaks.com</url>
+		<comment>mister_from_mame</comment>
 		<clrmamepro/>
 	</header>
 	<machine name="1942">
@@ -460,6 +460,19 @@
 		<rom name="dd1a.5" size="4096" crc="6687933b" md5="b7bc64bc3dcd81d96e38d2439ebc11e4" sha1="c16144de7633595ddc1450ddce379f48e7b2195a"/>
 		<rom name="dd1a.6" size="4096" crc="843d857f" md5="1115f9ca536a96632660c0fbcfd8127c" sha1="89b2ead7e478e119d33bfd67376cdf28f83de67a"/>
 	</machine>
+	<machine name="digdug2">
+		<description>digdug2</description>
+		<rom name="d21-3.3m" size="256" crc="e0074ee2" md5="64b68cbd12c3ddcbd3ef04126b60d982" sha1="f4f02977130110be52f4dd82fc3c0d02f45778b9"/>
+		<rom name="d21-5.5b" size="32" crc="9b169db5" md5="690964686cabe13929b532e237cb0d08" sha1="77e840d10ab59708a051c3b15305b33d431ee06d"/>
+		<rom name="d21-6.4c" size="256" crc="55a88695" md5="f590482bd8f8914c64cbeda3238c5b12" sha1="bd6bd641c9f220b6a2cc414a1117d5c089571400"/>
+		<rom name="d21-7.5k" size="256" crc="9c55feda" md5="c4d4865691cb9cf89f68c322b3129ef9" sha1="30a4593726f5a4791e0812fd593e592087e730e3"/>
+		<rom name="d21_4.1k" size="8192" crc="737443b1" md5="43268af97df1f2cdcb2efa9cdf174e10" sha1="0e46204089cc6e5ffab0d2a62f9a1728f8c35948"/>
+		<rom name="d21_5.3b" size="4096" crc="afcb4509" md5="a9bc57118ed5f25fd22c39ce61b38f01" sha1="c9a54df22b0b92efbe7417a00200587225906b46"/>
+		<rom name="d21_6.3m" size="16384" crc="df1f4ad8" md5="fe4b68b5423e423073967043e82046fa" sha1="004fba630018dbf03c4b0e284c98077e19fface3"/>
+		<rom name="d21_7.3n" size="16384" crc="ccadb3ea" md5="113cdb0475a51034635882d3f3510962" sha1="77d8d8e6039272f73e63c8f76084138ec613365a"/>
+		<rom name="d23_1.1b" size="16384" crc="40e46af8" md5="7b50b6e90302f0f5524db46e7876e4e3" sha1="698a5c425e23627331d85216a4edee9c391e5749"/>
+		<rom name="d23_3.1d" size="16384" crc="cc155338" md5="676928e080ee45d550c3226df71b5232" sha1="d6796479ebb00081e9ae281380a4ce75f730766e"/>
+	</machine>
 	<machine name="dkong">
 		<description>dkong</description>
 		<rom name="c-2j.bpr" size="256" crc="d6412358" md5="c2efc6141ec2fdb54966c914b2b67d0e" sha1="f9c872da2fe8e800574ae3bf483fb3ccacc92eb3"/>
@@ -599,6 +612,28 @@
 		<rom name="galmidw.w" size="2048" crc="b5894925" md5="053cd95b6e82a25d047c832c76c12c17" sha1="0046b9ed697a34d088de1aead8bd7cbe526a2396"/>
 		<rom name="galmidw.y" size="2048" crc="6b3ca10b" md5="53b8ffe12d1ee90dd656a55e7520c30f" sha1="18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1"/>
 	</machine>
+	<machine name="gaplus">
+		<description>gaplus</description>
+		<rom name="gp2-1.1n" size="256" crc="8bc8022a" md5="23cfe522d8e5fb281ccff0d7753673ae" sha1="c76f9d9b066e268621d41a703c5280261234709a"/>
+		<rom name="gp2-1.4b" size="8192" crc="ed8aa206" md5="5766e6e547bb055d094e00a233c3c548" sha1="4e0a31d84cb7aca497485dbe0240009d58275765"/>
+		<rom name="gp2-10.11n" size="8192" crc="6cd8ce11" md5="890f5c031736b267e9b64378298f3e59" sha1="fc346e98737c9fc20810e32d4c150ae4b4051979"/>
+		<rom name="gp2-11.11p" size="8192" crc="57740ff9" md5="df1ec08924d7dafe59662cae6cede005" sha1="16873e0ac5f975768d596d7d32af7571f4817f2b"/>
+		<rom name="gp2-12.11r" size="8192" crc="7316a1f1" md5="0286fa74eff092d4eb490591a5734e70" sha1="368e4541a5151e906a189712bc05192c2ceec8ae"/>
+		<rom name="gp2-2.2n" size="256" crc="8dabc20b" md5="159069eb4d5c21142d775d7005feebba" sha1="64d7b333f529d3ba66aeefd380fd1cbf9ddf460d"/>
+		<rom name="gp2-2b.8b" size="8192" crc="b3cb90db" md5="3d916603ef7f32ffb5046d65a9e38ed9" sha1="025c2f3978772e1ecbbf36842dc7c2203ee91a1f"/>
+		<rom name="gp2-3.1p" size="256" crc="a5091352" md5="9d64c1b5185ed4b72c06c0b6e306bc2a" sha1="dcd6dfbfbd5281ba0c7b7c189d6fde23617ed3e3"/>
+		<rom name="gp2-3b.8c" size="8192" crc="d77840a4" md5="4ff72f1f565d168040d5fe00069ec827" sha1="81402b28a2d5ac2d1301252534afa0cb65d7e162"/>
+		<rom name="gp2-4.3f" size="256" crc="2d9fbdd8" md5="0f0c9cd3151b593d3b3122c15bf52241" sha1="e6a23cd5ce3d3e76de3b70c8ab5a3c45b1147af4"/>
+		<rom name="gp2-4.8d" size="8192" crc="e525d75d" md5="6b925c981f0621d3b666388cad8c094b" sha1="93fcd8b940491abf6344181811d0b35765d7e45c"/>
+		<rom name="gp2-5.6n" size="512" crc="c7d31657" md5="749e8c5cdbd713c6bcaf3599f9d5fe04" sha1="a93a5bc448dc127e1389d10a9cb06acadfe940cf"/>
+		<rom name="gp2-5.8s" size="8192" crc="f3d19987" md5="1e6c86943b100ea8d2dca986a35f2c61" sha1="a0107fa4659597ac42c875ab1c0deb845534268b"/>
+		<rom name="gp2-6.11b" size="8192" crc="75b18652" md5="1f3cafaa6382e0d8902f9f6cc4c5109f" sha1="398059da967c80321a9ec94d982a6c0b3c970c5f"/>
+		<rom name="gp2-6.6p" size="512" crc="6f99c2da" md5="3e27e446db4cb9360230da8c3d141bbd" sha1="955dcef363870ee8e91edc73b9ea3ce489738aad"/>
+		<rom name="gp2-7.11c" size="8192" crc="0621f7df" md5="6c25fe2b3fc191e4dc167451df826342" sha1="b86020f819fefb134cb57e203f7c90b1b29581c8"/>
+		<rom name="gp2-7.6s" size="256" crc="2faa3e09" md5="f78c93ba90fbbef5c8b6b69ae89d6f91" sha1="781ffe9088476798409cb922350eff881590cf35"/>
+		<rom name="gp2-8.11d" size="8192" crc="42b9fd7c" md5="1a57442510cafb886d50d4df7ff9c060" sha1="f230eb0ad757f0714c0ac81c812e950778452947"/>
+		<rom name="gp2-9.11m" size="8192" crc="e6a9ae67" md5="12840d5f184cd9bf58b82f3ec2a6fb70" sha1="99c1e67c3b216aa1b63f199e21c73cdedde80e1b"/>
+	</machine>
 	<machine name="gng">
 		<description>gng</description>
 		<rom name="gg1.bin" size="16384" crc="ecfccf07" md5="49b561f79d7a58d384cf432d5e176f4f" sha1="0a1518e19a2e0a4cc3dde4b9568202ea911b5ece"/>
@@ -704,6 +739,20 @@
 		<rom name="034598-01.np3" size="2048" crc="9c4ffa68" md5="f2ae71655bae3b96fb5485f1a71961f4" sha1="eb4ffc289d254f699f821df3146aa2c6cd78597f"/>
 		<rom name="034599-01.r3" size="2048" crc="355a9371" md5="51029ab710fe23f1579a21766cf8732f" sha1="6ecb40169b797d9eb623bcb17872f745b1bf20fa"/>
 	</machine>
+	<machine name="mappy">
+		<description>mappy</description>
+		<rom name="mp1-3.3m" size="256" crc="16a9166a" md5="6624279f467cb90cbd25bc574518d357" sha1="847cbaf7c88616576c410177e066ae1d792ac0ba"/>
+		<rom name="mp1-5.5b" size="32" crc="56531268" md5="0ee0d8889f69935fd57efa29be0c4e4f" sha1="2e356706c07f43eeb67783fb122bdc7fed1b3589"/>
+		<rom name="mp1-6.4c" size="256" crc="50765082" md5="482c093c90dcebf9e3105315b7692adc" sha1="f578e14f15783acb2073644db4a2f0d196cc0957"/>
+		<rom name="mp1-7.5k" size="256" crc="5396bd78" md5="26f2393e1e1bb8bec7e113b0a4029ff2" sha1="2e387e5d8b8cab005f67f821b4db65d0ae8bd362"/>
+		<rom name="mp1_2.1c" size="8192" crc="a958a61c" md5="298d961083aee959943572909bdc3c6a" sha1="e5198703cdf47b2cd7fc9f2a5fde7bf4ab2275db"/>
+		<rom name="mp1_4.1k" size="8192" crc="8182dd5b" md5="c6aac5a42f061f54af4e1baf2a7e0d1d" sha1="f36b57f7f1e79f00b3f07afe1960bca5f5325ee2"/>
+		<rom name="mp1_5.3b" size="4096" crc="16498b9f" md5="df792f69f4cb94d7f64751169ce47669" sha1="76610149c65f955484fef1c033ddc3fed3f4e568"/>
+		<rom name="mp1_6.3m" size="8192" crc="f2d9647a" md5="43c854d4129a1ac4978c428d207619e3" sha1="3cc216793c6a5f73c437ad2524563deb3b5e2890"/>
+		<rom name="mp1_7.3n" size="8192" crc="757cf2b6" md5="5d819ea87fc06499dfa7a321a4ebff0f" sha1="8dfbf03953d5219d9eb5fc654ec3392442ba1dc4"/>
+		<rom name="mpx_1.1b" size="8192" crc="203766d4" md5="78461d78e1ce2df7a43c2623a2a05db0" sha1="1dbc4f42d4c16a08240a221bec27dcc3a8dd7461"/>
+		<rom name="mpx_3.1d" size="8192" crc="52e6c708" md5="68536fe0e9c0c02582d4854e4cad6f08" sha1="b9722941438e93325e84691ada4e95620bec73b2"/>
+	</machine>
 	<machine name="mayday">
 		<description>mayday</description>
 		<rom name="ic01-1.bin" size="4096" crc="5dcb113f" md5="5d324a6a2cdfcbfcd87839827e9776a3" sha1="c41d671c336c68824771b7c4f0ffce39f1b6cd62"/>
@@ -729,6 +778,19 @@
 		<rom name="7" size="2048" crc="1e9c168c" md5="c8c79f6d9e780aa13b1d47b5ee1dd1e4" sha1="891dc159dfc343322c3241980a0ef76dee510ca9"/>
 		<rom name="8" size="2048" crc="5e09da94" md5="b109f010cd4b7e818df1225563994815" sha1="677890912db12df6fa2cb515c198f8ac3f7187af"/>
 		<rom name="9.chr" size="2048" crc="70df525c" md5="5e838a95246c49d28c859ea1ef9dfb07" sha1="f771293494a2234bf80f206ecf1e88773322e503"/>
+	</machine>
+	<machine name="motos">
+		<description>motos</description>
+		<rom name="mo1-3.3m" size="256" crc="2accdfb4" md5="3159a352d9efa49526554f73987f8afd" sha1="e21a0618c0f8e35ce26666b6850ac9c0d95d7971"/>
+		<rom name="mo1-5.5b" size="32" crc="71972383" md5="5c8210ca877019995a34089d315f66cf" sha1="66b0619affcc5168b099108800a941d6e2416ab0"/>
+		<rom name="mo1-6.4c" size="256" crc="730ba7fb" md5="8924513b747c7996d0f0a8694943ded8" sha1="24eb167266752b064689662e3ef0f62d0407ac26"/>
+		<rom name="mo1-7.5k" size="256" crc="7721275d" md5="d04a6569334645a5bb8ecd4d52b18730" sha1="543adb5348db81ea82a5c039451001ebd82735e3"/>
+		<rom name="mo1_1.1b" size="16384" crc="57b157e2" md5="7431869d9be1751b07929435109814bc" sha1="b050495fcc4a4d93551b29d4f05e49f64017c870"/>
+		<rom name="mo1_3.1d" size="16384" crc="1104abb2" md5="694f0cbd34817813264362c1cdcb5c7f" sha1="ade809a73ac24494b9f95f65b7592df5f86dce60"/>
+		<rom name="mo1_4.1k" size="8192" crc="55e45d21" md5="3a8bbf4e9d14d0ed7cc58a45172dadbd" sha1="a8b195acfec542734751de29c9dafc2b165a5881"/>
+		<rom name="mo1_5.3b" size="4096" crc="5d4a2a22" md5="25aa6b3858de2a53f140b9b57e1789d9" sha1="4af9bf2ae9bb78d2d029ef38809181ffa3c0eb66"/>
+		<rom name="mo1_6.3m" size="16384" crc="2f0e396e" md5="96c8f6b4cd652da20bdb139c5079778a" sha1="664679f9d3d74a3fccb086af910392b4fe40c9bc"/>
+		<rom name="mo1_7.3n" size="16384" crc="cf8a3b86" md5="57470ec0fdf771fca4d9a6de11849424" sha1="2b49cdec516e23783f2a291633d81ab8bd0245fc"/>
 	</machine>
 	<machine name="mpatrol">
 		<description>mpatrol</description>
@@ -773,6 +835,22 @@
 		<rom name="u5" size="2048" crc="f45fbbcd" md5="c6bb02ee83e84ad16eb444d74fd1e44f" sha1="b26cc1c8ee18e9b1daa97956d2159b954703a0ec"/>
 		<rom name="u6" size="4096" crc="a90e7000" md5="98608ce3e93189e4c8ae5b98c1bc3131" sha1="e4df96f1db753533f7d770aa62ae1973349ea4cf"/>
 		<rom name="u7" size="4096" crc="c82cd714" md5="6946d0145eed644ad884bbbbe760d3f2" sha1="1d8ac7ad03db2dc4c8c18ade466e12032673f874"/>
+	</machine>
+	<machine name="ninjakun">
+		<description>ninjakun</description>
+		<rom name="ninja-1.7a" size="8192" crc="1c1dc141" md5="1d8dd68ea295b39fe8329f55cab59359" sha1="423d3ed35e73a8d5bfce075a889b0322b207bd0d"/>
+		<rom name="ninja-10.2c" size="8192" crc="0d55664a" md5="e895688dccdc70456c817586414f4de3" sha1="955a607b4401ce9f3f807d53833a766152b0ef9b"/>
+		<rom name="ninja-11.2d" size="8192" crc="12ff9597" md5="363b64a759785f1500833aa13fd5c8d5" sha1="10b572844ab32e3ae54abe3600fecc1a811ac713"/>
+		<rom name="ninja-12.4c" size="8192" crc="e9b75807" md5="f4b45b2a65dfbdfaa3f243dac9a8d2fa" sha1="cf4c8ac962f785e9de5502df58eab9b3725aaa28"/>
+		<rom name="ninja-13.4d" size="8192" crc="1760ed2c" md5="6c6fb04058fc3cc20284fd22b94534b8" sha1="ee4c8efcce483c8051873714856824a1a1e14b61"/>
+		<rom name="ninja-2.7b" size="8192" crc="39cc7d37" md5="397e72aa04dd12df4100a42924321aa4" sha1="7f0d0e1e92cb6a57f15eb7fc51a67112f1c5fc8e"/>
+		<rom name="ninja-3.7d" size="8192" crc="d542bfe3" md5="309971d98a4deb40b22e3ac5eba4128f" sha1="3814d8f5b1acda21438fff4f71670fa653dc7b30"/>
+		<rom name="ninja-4.7e" size="8192" crc="a57385c6" md5="d6261bbac1e324b2dde9675afa81e274" sha1="77925a281e64889bfe967c3d42a388529aaf7eb6"/>
+		<rom name="ninja-5.7h" size="8192" crc="164a42c4" md5="ce3c2c9946707cafbd48da653cfa26be" sha1="16b434b33b76b878514f67c23315d4c6da7bfc9e"/>
+		<rom name="ninja-6.7n" size="8192" crc="a74c4297" md5="4be0a85b8ee9c8e62917aea3330648e7" sha1="87184d14c67331f2c8a2412e28f31427eddae799"/>
+		<rom name="ninja-7.7p" size="8192" crc="53a72039" md5="5ea26ff0c3e0d532c6d823bd01b2c23a" sha1="d77d608ce9388a8956831369badd88a8eda8e102"/>
+		<rom name="ninja-8.7s" size="8192" crc="4a99d857" md5="a7e4ba6e32367779d3aaf2b6252ac187" sha1="6aadb6a5c721a161a5c1bef5569c1e323e380cff"/>
+		<rom name="ninja-9.7t" size="8192" crc="dede49e4" md5="1d2edd89830d13057732a4a67c35bc57" sha1="8ce4bc02ec583b3885ca63fb5e2d5dad185fe192"/>
 	</machine>
 	<machine name="nrallyx">
 		<description>nrallyx</description>
@@ -1164,6 +1242,19 @@
 		<rom name="tm5" size="8192" crc="e8ca87b9" md5="1b40901c6da864a08f293b42c0c41de1" sha1="5dd30d3fb9fd8cf9e6a8e37e7ea858c7fd038a7e"/>
 		<rom name="tm6" size="8192" crc="c2507f40" md5="f703fed937889ec08a34801e50f89967" sha1="07221875e3f81d9def67c57a7ccd82d52ce65e01"/>
 		<rom name="tm7" size="4096" crc="d66da813" md5="0be5bdbde0d446e4a963bd8a42780067" sha1="408fca4515e8af84211df3e204c8776b2f8adb23"/>
+	</machine>
+	<machine name="todruaga">
+		<description>todruaga</description>
+		<rom name="td1-3.3m" size="256" crc="07104c40" md5="4404de22b3c83d24e8c01634c47a645f" sha1="16db55525034bacb71e7dc8bd2a7c3c4464d4808"/>
+		<rom name="td1-5.5b" size="32" crc="122cc395" md5="ddb5ce7198538d342766bd51f692ef83" sha1="a648c53f2e95634bb5b27d79be3fd908021d056e"/>
+		<rom name="td1-6.4c" size="256" crc="8c661d6a" md5="cd842a0e70b81f15f2efee2d723c3e1c" sha1="1340e4f657f4f2c4ef651a441c3b51632e757d0b"/>
+		<rom name="td1-7.5k" size="1024" crc="a86c74dd" md5="bfbcaccf4157e94c93e099e0e5f22dd0" sha1="dfd7d6b2740761c3bcab4c7999d2699d920843e7"/>
+		<rom name="td1_4.1k" size="8192" crc="ae9d06d9" md5="ff7ca428eebe8582eaf1b56e750c700b" sha1="3d8621fdd74fafa61f342886faa37f0aab50c5a7"/>
+		<rom name="td1_5.3b" size="4096" crc="d32b249f" md5="7899c2111301e8bcfa776c4f230c748b" sha1="7d7cee4101ef615fb92c3702f89a9823a6231195"/>
+		<rom name="td1_6.3m" size="8192" crc="e827e787" md5="cb8beb566be4ac904bd880c1b17518a1" sha1="74e0af4c7d6e334bcd211a33eb18dddc8a182aa7"/>
+		<rom name="td1_7.3n" size="8192" crc="962bd060" md5="177cff2dd54cd75b732479b9895762af" sha1="74cdcafc26475bda085bf62ed17e6474ed782453"/>
+		<rom name="td2_1.1b" size="16384" crc="b238d723" md5="bb6156fc7585578220109f407fa2e19e" sha1="ab8eadd45638ff1ab2dacbd5ab2c6870b9f79086"/>
+		<rom name="td2_3.1d" size="16384" crc="fbf16299" md5="0b7666aeb23a390631b6553d12d268ee" sha1="9abbaaaf0a53aff38df8287f62d091b13146cf13"/>
 	</machine>
 	<machine name="travrusa">
 		<description>travrusa</description>
