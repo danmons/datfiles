@@ -8,7 +8,7 @@ The FPGA [MiSTer project](https://github.com/MiSTer-devel/Main_MiSTer/wiki) prov
 Look up guides on how to use [ClrMAMEPro](https://mamedev.emulab.it/clrmamepro/) (specifically the "Rebuild" function).  There are many well written ones.  I'll try to put links in here later.  Other ROM managers are mentioned above, but I haven't used them.  Anything that works with standard DAT files (standard across the entire preservation/emulation scene) should work. 
 
 # Note
-4 of the ROMs in this set fail the final checksum when the MiSTer build_rom scripts are called.  They are:
+4 of the 95 ROMs in this set fail the final checksum when the MiSTer build_rom scripts are called.  They are:
 * catacomb
 * woodpeck
 * mrtnt
